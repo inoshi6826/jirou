@@ -7,7 +7,10 @@ import scrapy
 
 
 class WarsItem(scrapy.Item):
-    name = scrapy.Field()
+    date = scrapy.Field()
+    url = scrapy.Field()
+    type = scrapy.Field()
+
 
 class ProKifItem(scrapy.Item):
     data = scrapy.Field()
