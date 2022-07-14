@@ -1,0 +1,736 @@
+78');\n\u003C/script>\u003Cmeta http-equiv=\"origin-trial\" content=\"A9wkrvp9y21k30U9lU7MJMjBj4USjLrGwV+Z8zO3J3ZBH139DOnCv3XLK2Ii40S94HG1SZ/Zeg2GSHOD3wlWngYAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1RoaXJkUGFydHkiOnRydWV9\">\u003Cscript type=\"text/javascript\" async=\"\" src=\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/972589478/?random=1657787558057&amp;cv=9&amp;fst=1657787558057&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_his=3&amp;u_tz=540&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa7d0&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fshogiwars.heroz.jp%2Fusers%2Fmypage%2Fsplash111%3Flocale%3Dja%26amp%3Bsignup%3Dfalse%26amp%3Bversion%3Dwebapp_7.1.0_standard&amp;ref=https%3A%2F%2Fshogiwars.heroz.jp%2Floginm%2FWEBAPP_bafa12e7-5556-4f5f-9cef-2219a05e0347%2F93a4afbc8ab22f9206303431c40fe94bced77881%3Fversion%3Dwebapp_7.1.0_standard%26locale%3Dja&amp;tiba=splash111%20-%20%E5%B0%86%E6%A3%8B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4\">\u003C/script>\u003C/head>\n\n\u003Cbody>\n  \u003Cdiv id=\"wrapper\">\n    \n\n    \u003Clink rel=\"stylesheet\" media=\"screen\" href=\"//shogiwars-cdn.heroz.jp/assets/users/_screen_top_alert-1218e0f971007913310c5542aea019324adb543aa8b9c5ec24d3120c7193a053.css\">\n\n\n\n\n    \u003Clink rel=\"stylesheet\" media=\"screen\" href=\"//shogiwars-cdn.heroz.jp/assets/banners/_show-59d39672b1492ed7e1f9c5776fc79be2c131e3e751a6b3f46f1460659cb35cc7.css\">\n\u003Cdiv class=\"slide_parent\" style=\"display: block;\">\n  \u003Cdiv class=\"slide_banners slick-initialized slick-slider\">\u003Cdiv class=\"slick-list draggable\">\u003Cdiv class=\"slick-track\" style=\"opacity: 1; width: 1600px; transform: translate3d(-320px, 0px, 0px);\">\u003Cdiv class=\"slick-slide slick-cloned\" data-slick-index=\"-1\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 320px;\">\u003Cdiv>\u003Cdiv style=\"width: 100%; display: inline-block;\">\n            \u003Ca id=\"\" class=\"banner_link\" data-id=\"62c547206725446fa4b745c0\" data-url=\"https://kishin-analytics.heroz.jp/lp/\" data-page-name=\"users_show\" target=\"_blank\" href=\"https://kishin-analytics.heroz.jp/lp/\" tabindex=\"-1\">\u003Cimg width=\"320\" height=\"64\" class=\"banner\" src=\"//shogiwars-cdn.heroz.jp/images/banner/kishinanalytics_02.png\">\u003C/a>            \u003Cform id=\"\" action=\"/banners/62c547206725446fa4b745c0/select?locale=ja&amp;version=webapp_7.1.0_standard\" accept-charset=\"UTF-8\" data-remote=\"true\" method=\"post\">\u003Cinput name=\"utf8\" type=\"hidden\" value=\"✓\" tabindex=\"-1\">\u003Cinput type=\"hidden\" name=\"_method\" value=\"patch\" tabindex=\"-1\">\u003Cinput type=\"hidden\" name=\"authenticity_token\" value=\"Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg\" tabindex=\"-1\">\n              \u003Cinput type=\"hidden\" name=\"file_name\" id=\"\" value=\"kishinanalytics_02.png\" tabindex=\"-1\">\n\u003C/form>          \u003C/div>\u003C/div>\u003C/div>\u003Cdiv class=\"slick-slide slick-current slick-active\" data-slick-index=\"0\" aria-hidden=\"false\" style=\"width: 320px;\">\u003Cdiv>\u003Cdiv style=\"width: 100%; display: inline-block;\">\n            \u003Ca target=\"_blank\" id=\"banner_6088f032d170da40b9b23da6\" class=\"banner_link\" data-id=\"6088f032d170da40b9b23da6\" data-url=\"https://shogiwars.heroz.jp/learnings/beginner\" data-page-name=\"users_show\" href=\"https://shogiwars.heroz.jp/learnings/beginner\" tabindex=\"0\">\u003Cimg width=\"320\" height=\"64\" class=\"banner\" src=\"//shogiwars-cdn.heroz.jp/images/banner/kishin_beginner.png\">\u003C/a>            \u003Cform id=\"banner_select_form_6088f032d170da40b9b23da6\" action=\"/banners/6088f032d170da40b9b23da6/select?locale=ja&amp;version=webapp_7.1.0_standard\" accept-charset=\"UTF-8\" data-remote=\"true\" method=\"post\">\u003Cinput name=\"utf8\" type=\"hidden\" value=\"✓\" tabindex=\"0\">\u003Cinput type=\"hidden\" name=\"_method\" value=\"patch\" tabindex=\"0\">\u003Cinput type=\"hidden\" name=\"authenticity_token\" value=\"Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg\" tabindex=\"0\">\n              \u003Cinput type=\"hidden\" name=\"file_name\" id=\"file_name\" value=\"kishin_beginner.png\" tabindex=\"0\">\n\u003C/form>          \u003C/div>\u003C/div>\u003C/div>\u003Cdiv class=\"slick-slide\" data-slick-index=\"1\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 320px;\">\u003Cdiv>\u003Cdiv style=\"width: 100%; display: inline-block;\">\n            \u003Ca id=\"banner_62c547206725446fa4b745c0\" class=\"banner_link\" data-id=\"62c547206725446fa4b745c0\" data-url=\"https://kishin-analytics.heroz.jp/lp/\" data-page-name=\"users_show\" target=\"_blank\" href=\"https://kishin-analytics.heroz.jp/lp/\" tabindex=\"-1\">\u003Cimg width=\"320\" height=\"64\" class=\"banner\" src=\"//shogiwars-cdn.heroz.jp/images/banner/kishinanalytics_02.png\">\u003C/a>            \u003Cform id=\"banner_select_form_62c547206725446fa4b745c0\" action=\"/banners/62c547206725446fa4b745c0/select?locale=ja&amp;version=webapp_7.1.0_standard\" accept-charset=\"UTF-8\" data-remote=\"true\" method=\"post\">\u003Cinput name=\"utf8\" type=\"hidden\" value=\"✓\" tabindex=\"-1\">\u003Cinput type=\"hidden\" name=\"_method\" value=\"patch\" tabindex=\"-1\">\u003Cinput type=\"hidden\" name=\"authenticity_token\" value=\"Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg\" tabindex=\"-1\">\n              \u003Cinput type=\"hidden\" name=\"file_name\" id=\"file_name\" value=\"kishinanalytics_02.png\" tabindex=\"-1\">\n\u003C/form>          \u003C/div>\u003C/div>\u003C/div>\u003Cdiv class=\"slick-slide slick-cloned\" data-slick-index=\"2\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 320px;\">\u003Cdiv>\u003Cdiv style=\"width: 100%; display: inline-block;\">\n            \u003Ca target=\"_blank\" id=\"\" class=\"banner_link\" data-id=\"6088f032d170da40b9b23da6\" data-url=\"https://shogiwars.heroz.jp/learnings/beginner\" data-page-name=\"users_show\" href=\"https://shogiwars.heroz.jp/learnings/beginner\" tabindex=\"-1\">\u003Cimg width=\"320\" height=\"64\" class=\"banner\" src=\"//shogiwars-cdn.heroz.jp/images/banner/kishin_beginner.png\">\u003C/a>            \u003Cform id=\"\" action=\"/banners/6088f032d170da40b9b23da6/select?locale=ja&amp;version=webapp_7.1.0_standard\" accept-charset=\"UTF-8\" data-remote=\"true\" method=\"post\">\u003Cinput name=\"utf8\" type=\"hidden\" value=\"✓\" tabindex=\"-1\">\u003Cinput type=\"hidden\" name=\"_method\" value=\"patch\" tabindex=\"-1\">\u003Cinput type=\"hidden\" name=\"authenticity_token\" value=\"Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg\" tabindex=\"-1\">\n              \u003Cinput type=\"hidden\" name=\"file_name\" id=\"\" value=\"kishin_beginner.png\" tabindex=\"-1\">\n\u003C/form>          \u003C/div>\u003C/div>\u003C/div>\u003Cdiv class=\"slick-slide slick-cloned\" data-slick-index=\"3\" aria-hidden=\"true\" tabindex=\"-1\" style=\"width: 320px;\">\u003Cdiv>\u003Cdiv style=\"width: 100%; display: inline-block;\">\n            \u003Ca id=\"\" class=\"banner_link\" data-id=\"62c547206725446fa4b745c0\" data-url=\"https://kishin-analytics.heroz.jp/lp/\" data-page-name=\"users_show\" target=\"_blank\" href=\"https://kishin-analytics.heroz.jp/lp/\" tabindex=\"-1\">\u003Cimg width=\"320\" height=\"64\" class=\"banner\" src=\"//shogiwars-cdn.heroz.jp/images/banner/kishinanalytics_02.png\">\u003C/a>            \u003Cform id=\"\" action=\"/banners/62c547206725446fa4b745c0/select?locale=ja&amp;version=webapp_7.1.0_standard\" accept-charset=\"UTF-8\" data-remote=\"true\" method=\"post\">\u003Cinput name=\"utf8\" type=\"hidden\" value=\"✓\" tabindex=\"-1\">\u003Cinput type=\"hidden\" name=\"_method\" value=\"patch\" tabindex=\"-1\">\u003Cinput type=\"hidden\" name=\"authenticity_token\" value=\"Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg\" tabindex=\"-1\">\n              \u003Cinput type=\"hidden\" name=\"file_name\" id=\"\" value=\"kishinanalytics_02.png\" tabindex=\"-1\">\n\u003C/form>          \u003C/div>\u003C/div>\u003C/div>\u003C/div>\u003C/div>\u003C/div>\n\u003C/div>\n\n\u003Cscript src=\"//shogiwars-cdn.heroz.jp/assets/banners/_show-b265604721d1835183ea18c11624c97b1bf73e18267e3bcb269459c9197ab381.js\">\u003C/script>\n\u003Cscript>\n    $(\"document\").ready(function () {\n        setBannerSlide(\".slide_banners\");\n        $('.slide_parent').show();\n\n        var isBannerSubmitted = false;\n        $('.banner_link').click(function(e) {\n            if(isBannerSubmitted) return true;\n          
+  var id = $(\"#\" + e.currentTarget.id).data(\"id\");\n            submitSelectBanner(\"#banner_select_form_\" + id);\n            var url = $(\"#\" + e.currentTarget.id).data(\"url\");\n            var pageName = $(\"#\" + e.currentTarget.id).data(\"page-name\");\n            sendAnalyticsBannerClickEvent(url, pageName);\n            
+isBannerSubmitted = true;\n            e.preventDefault();\n        });\n    });\n\u003C/script>    \n    \n    \n\n\n  \u003Cdiv id=\"menu_middle\">\n    \u003Cdiv class=\"text_box3\">\n      \u003Cdiv class=\"title\">      \n\t\t\t\tsplash111\n\t\t\t\t\u003Cspan style=\"font-size: 16px\">30級\u003C/span>\n      \u003C/div>\n\n      \u003Cscript>\n    window.addEventListener(\"load\", function(){\n\t  });\n\u003C/script>\n\n\u003Cdiv class=\"contents\" id=\"user-show\">\n  \u003Cdiv id=\"user_profile\">\n  \n  \u003Cdiv class=\"profile\">\n    \u003Ca href=\"/avatars/user_index?id=splash111&amp;locale=ja&amp;version=webapp_7.1.0_standard\">\u003Cimg width=\"100%\" src=\"//shogiwars-cdn.heroz.jp/images/avatar/_-l.png\">\u003C/a>\n    \u003Ca href=\"/greetings/user_index?locale=ja&amp;version=webapp_7.1.0_standard\">\u003Cimg width=\"100%\" src=\"/images/greeting/ja/default.png\">\u003C/a>\n        \u003Cdiv id=\"normal_member\">通常会員\u003C/div>\n  \u003C/div>\n\n  \u003Cdiv class=\"profile\">\n    \u003Ctable id=\"user_dankyu\">\n       \u003Ctbody>\u003Ctr> \n        \u003Cth>10分\u003C/th> \n        \u003Ctd class=\"dankyu\">30級\u003C/td>\n        \u003Ctd>\n          \u003Cdiv class=\"progress_bar\">\n            \u003Cspan style=\"background-size:20.0% 100%\">\n              達成率 20.0%\n            \u003C/span>\n          \u003C/div>\n          \u003Cdiv class=\"progress_note\">\n            今月:\n              -\n          \u003C/div>\n        \u003C/td>\n\n      \u003C/tr>\n       \u003Ctr> \n        \u003Cth>3分\u003C/th> \n        \u003Ctd class=\"dankyu\">30級\u003C/td>\n        \u003Ctd>\n          \u003Cdiv class=\"progress_bar\">\n            
+\u003Cspan style=\"background-size:20.0% 100%\">\n              達成率 20.0%\n            \u003C/span>\n          \u003C/div>\n          \u003Cdiv class=\"progress_note\">\n            今月:\n              -\n          \u003C/div>\n        \u003C/td>\n\n      \u003C/tr>\n       \u003Ctr> \n        \u003Cth>10秒\u003C/th> \n        \u003Ctd class=\"dankyu\">30級\u003C/td>\n        \u003Ctd>\n          \u003Cdiv class=\"progress_bar\">\n            \u003Cspan style=\"background-size:20.0% 100%\">\n              達成率 20.0%\n            \u003C/span>\n          \u003C/div>\n          \u003Cdiv class=\"progress_note\">\n            今月:\n              -\n          \u003C/div>\n        \u003C/td>\n\n      \u003C/tr>\n    \u003C/tbody>\u003C/table>\n\n  \u003C/div>\n  \u003Cbr clear=\"all\">\n  \n\u003C/div>  \n  \u003Cdiv class=\"user_status\">\n\n\n    \u003Cdiv class=\"data_rows\">\n      \u003Cdiv>\n        \u003Cspan class=\"item\">棋士団\u003C/span>\n        \t\u003Cspan>未所属\u003C/span>\n          \u003Cspan>\u003Ca class=\"common_button\" href=\"/groups?locale=ja&amp;version=webapp_7.1.0_standard\">棋士団を探す\u003C/a>\u003C/span>\n      \u003C/div>      \n    \u003C/div>\n\n    \u003Cdiv class=\"data_rows\">\n  \u003Cdiv>\u003Cspan class=\"item\">得意囲い\u003C/span>\n      -\n  \u003C/div>\n  \u003Cdiv style=\"margin-bottom:4px;\">\u003Cspan class=\"item\">得意戦法\u003C/span>\n      -\n  \u003C/div>\n  \u003Cdiv style=\"margin-bottom:4px;\">\u003Cspan class=\"item\">トレンド戦法\u003C/span>\n      -\n  \u003C/div>\n  \u003Cdiv style=\"margin-bottom:20px;\">\u003Cspan class=\"item\">お気に入り\u003C/span>\n    0件\n    / 30件\n    \u003Ca class=\"common_button\" href=\"/games/favorite_list?locale=ja&amp;user_id=splash111&amp;version=webapp_7.1.0_standard\">棋譜一覧\u003C/a>\n  \u003C/div>\n\u003C/div> \n\n    \u003Cdiv id=\"game_history_title\">戦歴\u003C/div>\n\u003Cdiv class=\"game_history\">\n  \u003Cdiv id=\"category_select_tab\">\n    \u003Cul>\n      \u003Cli class=\"tab3 selected_tab\">\n        \u003Ca href=\"javascript:void(0)\" onclick=\"displayRecord(0, 'record')\">10分\u003C/a>\n      \u003C/li>\n      \u003Cli class=\"tab3\">\n        \u003Ca href=\"javascript:void(0)\" onclick=\"displayRecord(1, 'recordsb')\">3分\u003C/a>\n      \u003C/li>\n      \u003Cli class=\"tab3\">\n        \u003Ca href=\"javascript:void(0)\" onclick=\"displayRecord(2, 'records1')\">10秒\u003C/a>\n      \u003C/li>      \n    \u003C/ul>  \n  \u003C/div>\n  \u003Cscript type=\"text/javascript\">\n      $(function () {\n          var lastGtype = '';\n          var gtype = ['', 'sb', 's1'];\n          tab = jQuery.inArray(lastGtype, gtype);\n          index = (tab >= 0) ? tab : 0;\n          displayRecord(index, 'record' + gtype[index]);\n      });\n\n      function displayRecord(index, tab) {          \n          $('#category_select_tab li').each(function (i) {\n              if(i == index){\n                $(this).addClass('selected_tab');\n              }else{\n                $(this).removeClass('selected_tab');\n              }\n          });          \n          $('.game_record').each(function (i) {\n              display = ($(this).attr('id') == tab) ? 'block' : 'none';\n              $(this).css('display', display);\n          });\n      }\n  \u003C/script>\n\n  \u003Cdiv id=\"record\" class=\"game_record data_rows\" style=\"display: block;\">\n    \u003Cdiv>\u003Cspan class=\"item item-battle\">通算\u003C/span>\n      0勝1敗 (.000)\n    \u003C/div>\n    \u003Cdiv>\u003Cspan class=\"item item-battle\">先手\u003C/span>\n      0勝1敗 (.000)\n    \u003C/div>\n    \u003Cdiv>\u003Cspan class=\"item item-battle\">後手\u003C/span>\n      0勝0敗 (.000)\n    \u003C/div>\n    \u003Cdiv>\u003Cspan class=\"item item-flag\">連勝\u003C/span>\n      1連敗中\n      (最高: 0連勝)\n    \u003C/div>\n    \u003Cdiv style=\"margin-top:10px;margin-bottom:6px;text-align:right;\">\n      \u003Ca class=\"common_button\" href=\"/users/phistory/splash111?gtype=&amp;locale=ja&amp;version=webapp_7.1.0_standard\">月別段級位履歴\u003C/a>\n          \u003Ca class=\"common_button\" href=\"/games/history?locale=ja&amp;user_id=splash111&amp;version=webapp_7.1.0_standard\">対局結果・ 棋譜一覧\u003C/a>\n    \u003C/div>\n  \u003C/div>\n\n  \u003Cdiv id=\"recordsb\" class=\"game_record data_rows\" style=\"display: none;\">\n    \u003Cdiv>\u003Cspan class=\"item item-battle\">通算\u003C/span>\n      0勝0敗 (.000)\n    \u003C/div>\n    \u003Cdiv>\u003Cspan class=\"item item-battle\">先手\u003C/span>\n      0勝0敗 (.000)\n    \u003C/div>\n    \u003Cdiv>\u003Cspan class=\"item item-battle\">後手\u003C/span>\n      0勝0敗 (.000)\n    \u003C/div>\n    \u003Cdiv>\u003Cspan class=\"item item-flag\">連勝\u003C/span>\n      0連勝中\n      (最高: 0連勝)\n    \u003C/div>\n    \u003Cdiv style=\"margin-top:10px;margin-bottom:6px;text-align:right;\">\n      \u003Ca class=\"common_button\" href=\"/users/phistory/splash111?gtype=sb&amp;locale=ja&amp;version=webapp_7.1.0_standard\">月別段級位履歴\u003C/a>\n      \u003Ca class=\"common_button\" href=\"/games/history?gtype=sb&amp;locale=ja&amp;user_id=splash111&amp;version=webapp_7.1.0_standard\">対局結果・棋譜一覧\u003C/a>\n    \u003C/div>\n  \u003C/div>\n\n  \u003Cdiv id=\"records1\" class=\"game_record data_rows\" style=\"display: none;\">\n    \u003Cdiv>\u003Cspan class=\"item item-battle\">通算\u003C/span>\n      0勝0敗 (.000)\n    \u003C/div>\n    \u003Cdiv>\u003Cspan class=\"item item-battle\">先手\u003C/span>\n      0勝0敗 (.000)\n    \u003C/div>\n    \u003Cdiv>\u003Cspan class=\"item item-battle\">後手\u003C/span>\n      0勝0敗 (.000)\n    \u003C/div>\n    \u003Cdiv>\u003Cspan class=\"item item-flag\">連勝\u003C/span>\n      0連勝中\n      (最高: 0連勝)\n    \u003C/div>\n    \u003Cdiv style=\"margin-top:10px;margin-bottom:6px;text-align:right;\">\n      \u003Ca class=\"common_button\" href=\"/users/phistory/splash111?gtype=s1&amp;locale=ja&amp;version=webapp_7.1.0_standard\">月別段級位履歴\u003C/a>\n      \u003Ca class=\"common_button\" href=\"/games/history?gtype=s1&amp;locale=ja&amp;user_id=splash111&amp;version=webapp_7.1.0_standard\">対局結果・棋譜一覧\u003C/a>\n    \u003C/div>\n  \u003C/div>\n\n\u003C/div>\n      \n\u003Cdiv class=\"data_rows\">\n\n\u003C/div>\n\n        \u003Cdiv class=\"data_rows\">\n                    \u003Cdiv>\n            \u003Cspan class=\"item item-ranking\">過去大会\u003C/span>\n            \u003Ca class=\"common_button\" href=\"/users/ehistory/splash111?locale=ja&amp;version=webapp_7.1.0_standard\">成績一覧\u003C/a>\n          \u003C/div>\n        \u003C/div>\n\n        \u003Cdiv class=\"data_rows\">\n  \u003Cdiv class=\"status_title\">\n    \u003Cspan class=\"item item-personal\">棋神解析\u003C/span>\n    \u003Ca class=\"common_button\" href=\"/games/analysis_history?locale=ja&amp;version=webapp_7.1.0_standard\">棋譜一覧\u003C/a>\n  \u003C/div>\n  \u003Cbr clear=\"all\">\n\u003C/div>\n\u003Cdiv class=\"data_rows\">\n  \u003Cdiv class=\"status_title\">\n    \u003Cspan class=\"item item-personal\">指導対局\u003C/span>\n    \u003Ca class=\"common_button\" href=\"/games/coach_history?locale=ja&amp;version=webapp_7.1.0_standard\">棋譜一覧\u003C/a>\n  \u003C/div>\n  \u003Cbr clear=\"all\">\n\u003C/div>\n\u003Cdiv class=\"data_rows\">\n  \u003Cdiv class=\"status_title\">\n    \u003Cspan class=\"item item-personal\">棋神解析券\u003C/span>\n    \u003Cspan class=\"emph1\" id=\"useranalysis\">2枚\u003C/span>\n    \u003Ca class=\"common_button\" href=\"/help/analysis_1\">使い方はこちら\u003C/a>\n  \u003C/div>\n  \u003Cbr clear=\"all\">\n\u003C/div>\n\u003Cdiv class=\"data_rows\">\n  \u003Cdiv class=\"status_title\">\n    \u003Cspan class=\"item item-personal\">棋神降臨\u003C/span>\n    \u003Cspan class=\"emph1\" id=\"usergod\">1回\u003C/span>\n    召喚可能\n  \u003C/div>\n  \u003Cbr clear=\"all\">\n\u003C/div>\n\n\u003Cdiv class=\"data_rows\">\n  \u003Cdiv class=\"status_title\">\n    \u003Cspan class=\"item item-personal\">指導対局券\u003C/span>\n    \u003Cspan class=\"emph1\" id=\"usercoach_ticket\">\n      0枚\n      \u003Ca class=\"common_button\" href=\"/help/coach_1\">詳細\u003C/a>\n          \u003Ca class=\"common_button\" href=\"/lotteries/62bb173873bd756557d7b151?locale=ja&amp;version=webapp_7.1.0_standard\">プレゼント\u003C/a>\n    \u003C/span>\n  \u003C/div>\n  \u003Cbr clear=\"all\">\n\u003C/div>\n\n\u003Cdiv class=\"data_rows\">\n  \u003Cdiv class=\"status_title\">\n    \u003Cspan class=\"item item-personal\">GCポイント\u003C/span>\n    \u003Cspan class=\"emph1\" id=\"userpoins\">\n          0 pt\n        \u003C/span>\n    \u003Ca class=\"common_button\" href=\"/events/point2022?locale=ja&amp;user=splash111&amp;version=webapp_7.1.0_standard\">イベントページはこちら\u003C/a>\n  \u003C/div>\n  \u003Cbr clear=\"all\">\n    \u003Cdiv class=\"status_title\">\n    \u003Cspan class=\"item item-personal\">可能対局数\u003C/span>\n    \u003Cspan id=\"remdays\">\n      本日残り\u003Cspan class=\"emph1\" id=\"userlimit\">3.0\u003C/span>局\n          \u003C/span>\n  \u003C/div>\n\n  \u003Cbr clear=\"all\">\n\u003C/div>\n\n\u003Cdiv id=\"store_button\">\n  \u003Cdiv>\n    \u003Ca class=\"store_button\" href=\"/stores/web?locale=ja&amp;version=webapp_7.1.0_standard\">ウォーズストア\u003C/a>\n  \u003C/div>\n\u003C/div>\n\n\n\u003Cdiv class=\"status_title\">\n  \u003Cspan class=\"item item-personal\">クイズ\u003C/span>\n  \u003Ca class=\"common_button\" href=\"/quizzes/quizzes?locale=ja&amp;version=webapp_7.1.0_standard\">クイズ一覧\u003C/a>\n\u003C/div>\n\u003Cbr clear=\"all\">\n\n\n\n\n  \u003C/div>\n\u003C/div>\n\n      \n      \n      \n\n      \n      \n      \n      \u003C!--第一期棋神戦放映-->\n\n        \u003Cdiv class=\"title\">\n    段位認定(免状発行)\n  \u003C/div>\n  \u003Cdiv class=\"contents\">\n    \u003Cdiv style=\"text-align:center;\">\n\t\t\t\t\u003Cdiv style=\"margin-bottom: 7px;\">\n\t\t\t\t\t\u003Cspan style=\"font-size:14px; font-weight:bold\">申請可能な段位に達していない為、現在の段位では免状・認定状の申請はできません。\u003C/span>\n\t\t\t\t\u003C/div>\n\t\t\t\t\u003Cimg src=\"//image-pona.heroz.jp/banner/menjo_548.jpg\" width=\"274\" alt=\"日本将棋連盟 段位認定ページヘ\">\n    \u003C/div>\n    \u003Cdiv class=\"note\" style=\"font-size:12px\">\n      日本将棋連盟公認の下 、免状・認定状の申請ができます。(5級から六段)\u003Cbr>\n      申請可能な免状の段位は、10分/弾丸/10秒の最高段位までになります。\u003Cbr>\n    \u003C/div>\n  \u003C/div>\n\n      \u003Cstyle type=\"text/css\">\n#shogi_radar_chart{\n\t\n}\n#shogi_radar_chart div{\n\tfloat:left;\n\twidth:calc(50% - 12px);\n\tpadding:4px 6px;\n\ttext-align:right;\n}\n#shogi_radar_chart div:nth-child(2n){\n\ttext-align:left;\t\n}\n.chart_name{\n\tcolor:#FFFFFF;\n\tfont-weight:bold;\t\n\ttext-shadow: 1px 1px 1px #BDBDBD;\n\t-moz-text-shadow: 1px 1px 1px #BDBDBD;\n\t-webkit-text-shadow: 1px 1px 1px #BDBDBD;\n}\n.low_point{\n\tcolor:#FFD54F;\n\ttext-shadow: 1px 1px 1px #FF8F00;\n\t-moz-text-shadow: 1px 1px 1px #FF8F00;\n\t-webkit-text-shadow: 1px 1px 1px #FF8F00;\t\n}\n.middle_point{\n\tcolor:#FFFFFF;\t\n\ttext-shadow: 1px 1px 1px #BDBDBD;\n\t-moz-text-shadow: 1px 1px 1px #BDBDBD;\n\t-webkit-text-shadow: 1px 1px 1px #BDBDBD;\t\n}\n.high_point{\n\tcolor:#9CCC65;\n\ttext-shadow: 1px 1px 1px #33691E;\n\t-moz-text-shadow: 1px 1px 1px #33691E;\n\t-webkit-text-shadow: 1px 1px 1px #33691E;\t\t\n}\n\u003C/style>\n\u003Cdiv class=\"title\">棋力レーダーチャート(14.5)\u003C/div>\n\u003Cdiv class=\"contents\">\n  \u003Cdiv class=\"rank_space\">\u003Ccanvas id=\"radar\" width=\"200\" height=\"200\" style=\"background: url(&quot;//shogiwars-cdn.heroz.jp/images/para4@2x.png&quot;) 0% 0% / 200px 200px no-repeat;\">\u003C/canvas>\u003C/div>\n\t\u003Cdiv id=\"shogi_radar_chart\">\n\t\t\u003Cdiv>\n\t\t\t\u003Cspan class=\"chart_name\">攻撃 力 : \u003C/span>\n\t\t\t\u003Cspan class=\"middle_point\">1.7\u003C/span>\n\t\t\u003C/div>\n\t\t\u003Cdiv>\n\t\t\t\u003Cspan class=\"chart_name\">守備力 : \u003C/span>\n\t\t\t\u003Cspan class=\"middle_point\">2.6\u003C/span>\n\t\t\u003C/div>\n\t\t\u003Cdiv>\n\t\t\t\u003Cspan class=\"chart_name\">芸術力 : \u003C/span>\n\t\t\t\u003Cspan class=\"low_point\">0.8\u003C/span>\n\t\t\u003C/div>\n\t\t\u003Cdiv>\n\t\t\t\u003Cspan class=\"chart_name\">早指力 : \u003C/span>\n\t\t\t\u003Cspan class=\"high_point\">4.0\u003C/span>\n\t\t\u003C/div>\n\t\t\u003Cdiv>\n\t\t\t\u003Cspan class=\"chart_name\">戦術力 : \u003C/span>\n\t\t\t\u003Cspan class=\"high_point\">4.0\u003C/span>\n\t\t\u003C/div>\n\t\t\u003Cdiv>\n\t\t\t\u003Cspan class=\"chart_name\">終盤力 : \u003C/span>\n\t\t\t\u003Cspan class=\"low_point\">1.4\u003C/span>\n\t\t\u003C/div>\n\t\t\u003Cbr clear=\"all\">\n\t\u003C/div>\t\n\u003C/div>\n\u003Cscript type=\"text/javascript\">\n$(\"#radar\").css({\n\t\"background\": \"url(//shogiwars-cdn.heroz.jp/images/para4@2x.png)\",\n\t\"background-repeat\": \"no-repeat\",\n\t\"background-size\": \"200px 200px\"\n});\n\u003C/script>\n\n      \u003Cdiv id=\"collection_wrapper\">\n        \u003Cdiv class=\"title\">コレクション(0/43)\u003C/div>\n\u003Cdiv class=\"contents\" id=\"collection\">\n\n  \u003Cul class=\"collection_tab\">\n      \u003Cli class=\"selected\">\n        \u003Ca data-remote=\"true\" href=\"/users/trophies/splash111/kakoi/0?locale=ja&amp;version=webapp_7.1.0_standard\">囲い\u003C/a>\u003C/li>\n      \u003Cli class=\"\">\n        \u003Ca data-remote=\"true\" href=\"/users/trophies/splash111/senpou/0?locale=ja&amp;version=webapp_7.1.0_standard\">戦法\u003C/a>\u003C/li>\n      \u003Cli class=\"\">\n        \u003Ca data-remote=\"true\" href=\"/users/trophies/splash111/tesuji/0?locale=ja&amp;version=webapp_7.1.0_standard\">手筋\u003C/a>\u003C/li>\n      \u003Cli class=\"\">\n        \u003Ca data-remote=\"true\" href=\"/users/trophies/splash111/special/0?locale=ja&amp;version=webapp_7.1.0_standard\">特殊\u003C/a>\u003C/li>\n  \u003C/ul>\n\n  \u003Ctable id=\"badges\" style=\"margin:0px auto;\">\n        \u003Ctbody>\u003Ctr>\n      \u003Ctd>\n          0\n      \u003C/td>\n            \u003Ctd>\n          1\n      \u003C/td>\n            \u003Ctd>\n          2\n      \u003C/td>\n      \u003C/tr>\n        \u003Ctr>\n      \u003Ctd>\n          3\n      \u003C/td>\n            \u003Ctd>\n          4\n      \u003C/td>\n            \u003Ctd>\n          5\n      \u003C/td>\n      \u003C/tr>\n        \u003Ctr>\n      \u003Ctd>\n          6\n      \u003C/td>\n            \u003Ctd>\n          7\n      \u003C/td>\n            \u003Ctd>\n          8\n      \u003C/td>\n      \u003C/tr>\n  \u003C/tbody>\u003C/table>\n\n  \u003Cul class=\"collection_paging\">\n        \u003Cli class=\"page selected\">1\u003C/li>\n        \u003Cli class=\"page\">\n          \u003Ca data-remote=\"true\" href=\"/users/trophies/splash111/kakoi/1?got=0&amp;locale=ja&amp;version=webapp_7.1.0_standard\">2\u003C/a>\u003C/li>\n        \u003Cli class=\"page\">\n          \u003Ca data-remote=\"true\" href=\"/users/trophies/splash111/kakoi/2?got=0&amp;locale=ja&amp;version=webapp_7.1.0_standard\">3\u003C/a>\u003C/li>\n        \u003Cli class=\"page\">\n          \u003Ca data-remote=\"true\" href=\"/users/trophies/splash111/kakoi/3?got=0&amp;locale=ja&amp;version=webapp_7.1.0_standard\">4\u003C/a>\u003C/li>\n        \u003Cli class=\"page\">\n          \u003Ca data-remote=\"true\" href=\"/users/trophies/splash111/kakoi/4?got=0&amp;locale=ja&amp;version=webapp_7.1.0_standard\">5\u003C/a>\u003C/li>\n  \u003C/ul>\n\n\u003C/div>\n      \u003C/div>\n\n\n      \u003Cdiv class=\"title\">\n        その他\n      \u003C/div>\n      \u003Cdiv class=\"contents\">\n        \u003Cul class=\"list_link\">\n            \u003Cli>\u003Ca href=\"/avatars/user_index?id=splash111&amp;locale=ja&amp;version=webapp_7.1.0_standard\">アバター\u003C/a>\u003C/li>\n            \u003Cli>\u003Ca href=\"/greetings/user_index?locale=ja&amp;version=webapp_7.1.0_standard\">挨拶・称号一覧\u003C/a>\u003C/li>\n            \u003Cli>\u003Ca href=\"/settings/user_index?locale=ja&amp;version=webapp_7.1.0_standard\">アプリ設定\u003C/a>\u003C/li>\n          \u003Cli>\u003Ca href=\"/friends?locale=ja&amp;user_id=splash111&amp;version=webapp_7.1.0_standard\">友達一覧\u003C/a>\u003C/li>\n        \u003C/ul>\n      \u003C/div>\n\n    \u003C/div>\n\n  \u003C/div>\n\n\n  \u003Cscript>\n      $(function () {\n          draw(document.getElementById(\"radar\"), 99, 101, 79.0, 5, 2.111656500112765,3.2068945953508603,1,5.0,5,1.7724102716315484, 'rgba(255, 210, 0, 0.5)');\n          SessionStorageUtil.restoreHtml(\"lastTrophy\", \"#collection_wrapper\");\n      });\n      $(function () {\n          $(\"#avatar_list\").dialog({autoOpen: false, title: 'アバター設定'});\n          $(\"#wars_points\").dialog({\n          
+    autoOpen: false,\n              resizable: false,\n              dialogClass: 'wars_points_dialog',\n              title: 'ｳｫｰｽﾞﾎﾟｲﾝﾄ'\n          });\n          $(\"#friend_search\").dialog({\n              autoOpen: false,\n              title: '友達検索',\n              position: 'center'\n          });\n      });\n\n  \u003C/script>\n\n    \u003Cdiv id=\"copyright\">©HEROZ, Inc. All Rights Reserved.\u003C/div>\n  \u003C/div>\n  \u003Cdiv id=\"topNavigation\">\n    \u003Cdiv>\u003Ca href=\"javascript:void(0)\" onclick=\"goTop()\">▲TOP\u003C/a>\u003C/div>\n\u003C/div>\n\n  \u003Cdiv id=\"web_base_url\" data-web-base-url=\"//shogiwars-cdn.heroz.jp\">\u003C/div>\n\n\n\u003Cdiv tabindex=\"-1\" role=\"dialog\" class=\"ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable ui-resizable\" aria-describedby=\"avatar_list\" aria-labelledby=\"ui-id-1\" style=\"display: none; position: absolute;\">\u003Cdiv class=\"ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle\">\u003Cspan id=\"ui-id-1\" class=\"ui-dialog-title\">アバター設定\u003C/span>\u003Cbutton type=\"button\" class=\"ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close\" title=\"Close\">\u003Cspan class=\"ui-button-icon ui-icon ui-icon-closethick\">\u003C/span>\u003Cspan class=\"ui-button-icon-space\"> \u003C/span>Close\u003C/button>\u003C/div>\u003Cdiv id=\"avatar_list\" class=\"ui-dialog-content ui-widget-content\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-n\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-e\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-s\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-w\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-sw\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-ne\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-nw\" style=\"z-index: 90;\">\u003C/div>\u003C/div>\u003Cdiv tabindex=\"-1\" role=\"dialog\" class=\"ui-dialog ui-corner-all ui-widget ui-widget-content ui-front wars_points_dialog ui-draggable\" aria-describedby=\"wars_points\" aria-labelledby=\"ui-id-2\" style=\"display: none;\">\u003Cdiv class=\"ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle\">\u003Cspan id=\"ui-id-2\" class=\"ui-dialog-title\">ｳｫｰｽﾞﾎﾟｲﾝﾄ\u003C/span>\u003Cbutton type=\"button\" class=\"ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close\" title=\"Close\">\u003Cspan class=\"ui-button-icon ui-icon ui-icon-closethick\">\u003C/span>\u003Cspan class=\"ui-button-icon-space\"> \u003C/span>Close\u003C/button>\u003C/div>\u003Cdiv id=\"wars_points\" class=\"ui-dialog-content ui-widget-content\">\u003C/div>\u003C/div>\u003Cdiv tabindex=\"-1\" role=\"dialog\" class=\"ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable ui-resizable\" aria-describedby=\"friend_search\" aria-labelledby=\"ui-id-3\" style=\"display: none; position: absolute;\">\u003Cdiv class=\"ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle\">\u003Cspan id=\"ui-id-3\" class=\"ui-dialog-title\">友達検索\u003C/span>\u003Cbutton type=\"button\" class=\"ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close\" title=\"Close\">\u003Cspan class=\"ui-button-icon ui-icon ui-icon-closethick\">\u003C/span>\u003Cspan class=\"ui-button-icon-space\"> \u003C/span>Close\u003C/button>\u003C/div>\u003Cdiv id=\"friend_search\" style=\"font-size:80%;\" class=\"ui-dialog-content ui-widget-content\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-n\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-e\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-s\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-w\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-sw\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-ne\" style=\"z-index: 90;\">\u003C/div>\u003Cdiv class=\"ui-resizable-handle ui-resizable-nw\" style=\"z-index: 90;\">\u003C/div>\u003C/div>\u003C/body>\u003C/html>"} | headers=HTTPHeaderDict({'Content-Length': '40507', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2022-07-14 17:32:38 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+<html><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Cache-Control" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <meta name="description" content="将棋ウォーズ【日本将棋連盟公認】は、従来の将棋アプリの常識を覆す派手な演出、グラフィックとAIを駆使し、超初心者から上級者まですぐに適 切な相手が見つかる充実のオンライン対局を提供するサービスです。 10分切れ負けや3分切れ負けや10秒将棋でスピーディーに対局できます。オフラインでコンピュータと対局もできます 。将棋ウォーズの段級位で、日本将棋連盟公認の免状・認定状（六段～５級）申請できます。">
+  <meta name="keywords" content="加藤一二三,香川愛生,将棋,ゲーム,将棋ウォーズ,日本将棋連盟,無料,アプリ,iPhone,android,SHOGIWARS,shogiwars,棋神降臨,棋神解析,どうぶつしょ うぎ,オンライン対局,オンライン,棋力,藤井聡太,羽生善治,名人,棋神,竜王,プロ棋士,囲い,戦法,Ponanza,指導対局,電王戦,棋神クイズ,ニコニコ,AbemaTV,将棋めし,棋神戦,灼熱の時代,3 月のライオン,宗桂">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="将棋ウォーズ">
+  <meta property="og:image" content="https://shogiwars.heroz.jp/images/icon_512.jpg">
+  <meta property="og:url" content="https://shogiwars.heroz.jp/">
+  <meta property="og:description" content="将棋ウォーズ【日本将棋連盟公認】は、従来の将棋アプリの常識を覆す派手な演出、グラフィックとAIを駆使し、超初心者から上級者まですぐに適切な相手が見つかる充実のオンライン対局を提供するサービスです。 10分切れ負けや3分切れ負けや10秒将棋でスピーディーに対局できます。オフラインでコンピュータと対局もで きます。将棋ウォーズの段級位で、日本将棋連盟公認の免状・認定状（六段～５級）申請できます。">
+  <meta property="og:site_name" content="将棋ウォーズ">
+  <meta property="og:locale" content="ja_JP">
+  <meta name="twitter:site" content="@warsminamin">
+  <meta name="twitter:card" content="app">
+  <meta name="twitter:description" content="将棋ウォーズ【日本将棋連盟公認】は、従来の将棋アプリの常識を覆す派手な演出、グラフィックとAIを駆使し、超初心者から上級者まで すぐに適切な相手が見つかる充実のオンライン対局を提供するサービスです。 10分切れ負けや3分切れ負けや10秒将棋でスピーディーに対局できます。オフラインでコンピュータと対局も できます。将棋ウォーズの段級位で、日本将棋連盟公認の免状・認定状（六段～５級）申請できます。">
+  <meta name="twitter:app:country" content="JP">
+  <meta name="twitter:app:name:iphone" content="将棋ウォーズ">
+  <meta name="twitter:app:id:iphone" content="496801169">
+  <meta name="twitter:app:url:iphone" content="https://itunes.apple.com/jp/app/id496801169?mt=8">
+  <meta name="twitter:app:name:ipad" content="将棋ウォーズ">
+  <meta name="twitter:app:id:ipad" content="496801169">
+  <meta name="twitter:app:url:ipad" content="https://itunes.apple.com/jp/app/id496801169?mt=8">
+  <meta name="twitter:app:name:googleplay" content="将棋ウォーズ">
+  <meta name="twitter:app:id:googleplay" content="jp.heroz.android.shogiwars">
+  <meta name="twitter:app:url:googleplay" content="https://play.google.com/store/apps/details?id=jp.heroz.android.shogiwars">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="format-detection" content="telephone=no">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <title>splash111 - 将棋ウォーズ</title>
+  <link rel="stylesheet" media="screen" href="//shogiwars-cdn.heroz.jp/assets/application-40d161ad6121d6a232a0fad8a2299e517138d8e1a8c896c5ca244278e461e46d.css">
+    <link rel="stylesheet" media="screen" href="//shogiwars-cdn.heroz.jp/assets/users-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css">
+
+<link rel="stylesheet" media="screen" href="//shogiwars-cdn.heroz.jp/assets/users/show-980af12734c948bb0f237a511aa1eebbc19c2e2d00e1ae140b67c3e3e3789844.css">
+
+
+  <script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-972589478&amp;l=dataLayer&amp;cx=c"></script><script src="//shogiwars-cdn.heroz.jp/assets/application-6580361da631286ab3965db803e818f4b0a4a4fedc0ee705508a521d1d503cf0.js"></script>
+
+<script src="//shogiwars-cdn.heroz.jp/assets/users/show-1a70e58d7a88330fa6c50b552674b88a72f1cbe870d8d6b512f49b915bfb579e.js"></script>
+
+<script src="//shogiwars-cdn.heroz.jp/assets/i18n/ja-2b06d22e39526f025696b20ca682d4c6bd98b71f3740eb409e6b789c2fc797d4.js"></script>
+<script>
+    I18n.defaultLocale = "ja"
+    I18n.locale = "ja"
+</script>
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg">
+
+  <script type="text/javascript">
+      function goTop(){
+          $('body,html').animate({scrollTop: 0},500);
+      }
+  </script>
+
+  <style type="text/css">
+    #topNavigation{
+      position: absolute;
+      left: 80%;
+      min-width: 15%;
+      max-width: 20%;
+      padding: 12px 0px;
+    }
+    #topNavigation div{
+      width: 100%;
+      /*background: #2E7D32;*/
+      background: rgba(46, 125, 50, 0.8);
+      border: 1px solid #1B5E20;
+      border-radius: 4px;
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+    }
+    #topNavigation a{
+      display: block;
+      padding: 6px;
+      color: #A5D6A7;
+      font-size: 12px;
+      font-weight: bold;
+      text-shadow: 1px 1px 1px #1B5E20;
+      -moz-text-shadow: 1px 1px 1px #1B5E20;
+      -webkit-text-shadow: 1px 1px 1px #1B5E20;
+      text-decoration: none;
+    }
+    #session_invalid{
+      padding:4px;
+      font-size:12px;
+      color:#A5D6A7;
+      font-weight: bold;
+      text-shadow: 1px 1px 1px #1B5E20;
+      -moz-text-shadow: 1px 1px 1px #1B5E20;
+      -webkit-text-shadow: 1px 1px 1px #1B5E20;
+      background: rgba(46, 125, 50, 0.8);
+      border-bottom:2px solid #1B5E20;
+    }
+  </style>
+
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-X0F89DVXWM"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-X0F89DVXWM');
+    gtag('config', 'AW-972589478');
+</script><meta http-equiv="origin-trial" content="A9wkrvp9y21k30U9lU7MJMjBj4USjLrGwV+Z8zO3J3ZBH139DOnCv3XLK2Ii40S94HG1SZ/Zeg2GSHOD3wlWngYAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/972589478/?random=1657787558057&amp;cv=9&amp;fst=1657787558057&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=600&amp;u_w=800&amp;u_ah=600&amp;u_aw=800&amp;u_cd=24&amp;u_his=3&amp;u_tz=540&amp;u_java=false&amp;u_nplug=0&amp;u_nmime=0&amp;gtm=2oa7d0&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fshogiwars.heroz.jp%2Fusers%2Fmypage%2Fsplash111%3Flocale%3Dja%26amp%3Bsignup%3Dfalse%26amp%3Bversion%3Dwebapp_7.1.0_standard&amp;ref=https%3A%2F%2Fshogiwars.heroz.jp%2Floginm%2FWEBAPP_bafa12e7-5556-4f5f-9cef-2219a05e0347%2F93a4afbc8ab22f9206303431c40fe94bced77881%3Fversion%3Dwebapp_7.1.0_standard%26locale%3Dja&amp;tiba=splash111%20-%20%E5%B0%86%E6%A3%8B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+
+<body>
+  <div id="wrapper">
+
+
+    <link rel="stylesheet" media="screen" href="//shogiwars-cdn.heroz.jp/assets/users/_screen_top_alert-1218e0f971007913310c5542aea019324adb543aa8b9c5ec24d3120c7193a053.css">
+
+
+
+
+    <link rel="stylesheet" media="screen" href="//shogiwars-cdn.heroz.jp/assets/banners/_show-59d39672b1492ed7e1f9c5776fc79be2c131e3e751a6b3f46f1460659cb35cc7.css">     
+<div class="slide_parent" style="display: block;">
+  <div class="slide_banners slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1600px; transform: translate3d(-320px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 320px;"><div><div style="width: 100%; display: inline-block;">
+            <a id="" class="banner_link" data-id="62c547206725446fa4b745c0" data-url="https://kishin-analytics.heroz.jp/lp/" data-page-name="users_show" target="_blank" href="https://kishin-analytics.heroz.jp/lp/" tabindex="-1"><img width="320" height="64" class="banner" src="//shogiwars-cdn.heroz.jp/images/banner/kishinanalytics_02.png"></a>            <form id="" action="/banners/62c547206725446fa4b745c0/select?locale=ja&amp;version=webapp_7.1.0_standard" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓" tabindex="-1"><input type="hidden" name="_method" value="patch" tabindex="-1"><input type="hidden" name="authenticity_token" value="Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg" tabindex="-1">
+              <input type="hidden" name="file_name" id="" value="kishinanalytics_02.png" tabindex="-1">
+</form>          </div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 320px;"><div><div style="width: 100%; display: inline-block;">
+            <a target="_blank" id="banner_6088f032d170da40b9b23da6" class="banner_link" data-id="6088f032d170da40b9b23da6" data-url="https://shogiwars.heroz.jp/learnings/beginner" data-page-name="users_show" href="https://shogiwars.heroz.jp/learnings/beginner" tabindex="0"><img width="320" height="64" class="banner" src="//shogiwars-cdn.heroz.jp/images/banner/kishin_beginner.png"></a>            <form id="banner_select_form_6088f032d170da40b9b23da6" action="/banners/6088f032d170da40b9b23da6/select?locale=ja&amp;version=webapp_7.1.0_standard" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓" tabindex="0"><input type="hidden" name="_method" value="patch" tabindex="0"><input type="hidden" name="authenticity_token" value="Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg" tabindex="0">
+              <input type="hidden" name="file_name" id="file_name" value="kishin_beginner.png" tabindex="0">
+</form>          </div></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" style="width: 320px;"><div><div style="width: 100%; display: inline-block;">
+            <a id="banner_62c547206725446fa4b745c0" class="banner_link" data-id="62c547206725446fa4b745c0" data-url="https://kishin-analytics.heroz.jp/lp/" data-page-name="users_show" target="_blank" href="https://kishin-analytics.heroz.jp/lp/" tabindex="-1"><img width="320" height="64" class="banner" src="//shogiwars-cdn.heroz.jp/images/banner/kishinanalytics_02.png"></a>            <form id="banner_select_form_62c547206725446fa4b745c0" action="/banners/62c547206725446fa4b745c0/select?locale=ja&amp;version=webapp_7.1.0_standard" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓" tabindex="-1"><input type="hidden" name="_method" value="patch" tabindex="-1"><input type="hidden" name="authenticity_token" value="Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg" tabindex="-1">
+              <input type="hidden" name="file_name" id="file_name" value="kishinanalytics_02.png" tabindex="-1">
+</form>          </div></div></div><div class="slick-slide slick-cloned" data-slick-index="2" aria-hidden="true" tabindex="-1" style="width: 320px;"><div><div style="width: 100%; display: inline-block;">
+            <a target="_blank" id="" class="banner_link" data-id="6088f032d170da40b9b23da6" data-url="https://shogiwars.heroz.jp/learnings/beginner" data-page-name="users_show" href="https://shogiwars.heroz.jp/learnings/beginner" tabindex="-1"><img width="320" height="64" class="banner" src="//shogiwars-cdn.heroz.jp/images/banner/kishin_beginner.png"></a>            <form id="" action="/banners/6088f032d170da40b9b23da6/select?locale=ja&amp;version=webapp_7.1.0_standard" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓" tabindex="-1"><input type="hidden" name="_method" value="patch" tabindex="-1"><input type="hidden" name="authenticity_token" value="Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg" tabindex="-1">
+              <input type="hidden" name="file_name" id="" value="kishin_beginner.png" tabindex="-1">
+</form>          </div></div></div><div class="slick-slide slick-cloned" data-slick-index="3" aria-hidden="true" tabindex="-1" style="width: 320px;"><div><div style="width: 100%; display: inline-block;">
+            <a id="" class="banner_link" data-id="62c547206725446fa4b745c0" data-url="https://kishin-analytics.heroz.jp/lp/" data-page-name="users_show" target="_blank" href="https://kishin-analytics.heroz.jp/lp/" tabindex="-1"><img width="320" height="64" class="banner" src="//shogiwars-cdn.heroz.jp/images/banner/kishinanalytics_02.png"></a>            <form id="" action="/banners/62c547206725446fa4b745c0/select?locale=ja&amp;version=webapp_7.1.0_standard" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓" tabindex="-1"><input type="hidden" name="_method" value="patch" tabindex="-1"><input type="hidden" name="authenticity_token" value="Iq0qrX9ajHEsJUF8_qY0Ag-4AKUwB1FTiL9XiNIvEWAOJpG9SLMi9_NFgT3-n9jGKaIjHXlxbrDRZXSBtsfIkg" tabindex="-1">
+              <input type="hidden" name="file_name" id="" value="kishinanalytics_02.png" tabindex="-1">
+</form>          </div></div></div></div></div></div>
+</div>
+
+<script src="//shogiwars-cdn.heroz.jp/assets/banners/_show-b265604721d1835183ea18c11624c97b1bf73e18267e3bcb269459c9197ab381.js"></script>
+<script>
+    $("document").ready(function () {
+        setBannerSlide(".slide_banners");
+        $('.slide_parent').show();
+
+        var isBannerSubmitted = false;
+        $('.banner_link').click(function(e) {
+            if(isBannerSubmitted) return true;
+            var id = $("#" + e.currentTarget.id).data("id");
+            submitSelectBanner("#banner_select_form_" + id);
+            var url = $("#" + e.currentTarget.id).data("url");
+            var pageName = $("#" + e.currentTarget.id).data("page-name");
+            sendAnalyticsBannerClickEvent(url, pageName);
+            isBannerSubmitted = true;
+            e.preventDefault();
+        });
+    });
+</script>
+
+
+
+
+  <div id="menu_middle">
+    <div class="text_box3">
+      <div class="title">
+                                splash111
+                                <span style="font-size: 16px">30級</span>
+      </div>
+
+      <script>
+    window.addEventListener("load", function(){
+          });
+</script>
+
+<div class="contents" id="user-show">
+  <div id="user_profile">
+
+  <div class="profile">
+    <a href="/avatars/user_index?id=splash111&amp;locale=ja&amp;version=webapp_7.1.0_standard"><img width="100%" src="//shogiwars-cdn.heroz.jp/images/avatar/_-l.png"></a>
+    <a href="/greetings/user_index?locale=ja&amp;version=webapp_7.1.0_standard"><img width="100%" src="/images/greeting/ja/default.png"></a>
+        <div id="normal_member">通常会員</div>
+  </div>
+
+  <div class="profile">
+    <table id="user_dankyu">
+       <tbody><tr>
+        <th>10分</th>
+        <td class="dankyu">30級</td>
+        <td>
+          <div class="progress_bar">
+            <span style="background-size:20.0% 100%">
+              達成率 20.0%
+            </span>
+          </div>
+          <div class="progress_note">
+            今月:
+              -
+          </div>
+        </td>
+
+      </tr>
+       <tr>
+        <th>3分</th>
+        <td class="dankyu">30級</td>
+        <td>
+          <div class="progress_bar">
+            <span style="background-size:20.0% 100%">
+              達成率 20.0%
+            </span>
+          </div>
+          <div class="progress_note">
+            今月:
+              -
+          </div>
+        </td>
+
+      </tr>
+       <tr>
+        <th>10秒</th>
+        <td class="dankyu">30級</td>
+        <td>
+          <div class="progress_bar">
+            <span style="background-size:20.0% 100%">
+              達成率 20.0%
+            </span>
+          </div>
+          <div class="progress_note">
+            今月:
+              -
+          </div>
+        </td>
+
+      </tr>
+    </tbody></table>
+
+  </div>
+  <br clear="all">
+
+</div>
+  <div class="user_status">
+
+
+    <div class="data_rows">
+      <div>
+        <span class="item">棋士団</span>
+                <span>未所属</span>
+          <span><a class="common_button" href="/groups?locale=ja&amp;version=webapp_7.1.0_standard">棋士団を探す</a></span>
+      </div>
+    </div>
+
+    <div class="data_rows">
+  <div><span class="item">得意囲い</span>
+      -
+  </div>
+  <div style="margin-bottom:4px;"><span class="item">得意戦法</span>
+      -
+  </div>
+  <div style="margin-bottom:4px;"><span class="item">トレンド戦法</span>
+      -
+  </div>
+  <div style="margin-bottom:20px;"><span class="item">お気に入り</span>
+    0件
+    / 30件
+    <a class="common_button" href="/games/favorite_list?locale=ja&amp;user_id=splash111&amp;version=webapp_7.1.0_standard">棋譜一覧</a>
+  </div>
+</div>
+
+    <div id="game_history_title">戦歴</div>
+<div class="game_history">
+  <div id="category_select_tab">
+    <ul>
+      <li class="tab3 selected_tab">
+        <a href="javascript:void(0)" onclick="displayRecord(0, 'record')">10分</a>
+      </li>
+      <li class="tab3">
+        <a href="javascript:void(0)" onclick="displayRecord(1, 'recordsb')">3分</a>
+      </li>
+      <li class="tab3">
+        <a href="javascript:void(0)" onclick="displayRecord(2, 'records1')">10秒</a>
+      </li>
+    </ul>
+  </div>
+  <script type="text/javascript">
+      $(function () {
+          var lastGtype = '';
+          var gtype = ['', 'sb', 's1'];
+          tab = jQuery.inArray(lastGtype, gtype);
+          index = (tab >= 0) ? tab : 0;
+          displayRecord(index, 'record' + gtype[index]);
+      });
+
+      function displayRecord(index, tab) {
+          $('#category_select_tab li').each(function (i) {
+              if(i == index){
+                $(this).addClass('selected_tab');
+              }else{
+                $(this).removeClass('selected_tab');
+              }
+          });
+          $('.game_record').each(function (i) {
+              display = ($(this).attr('id') == tab) ? 'block' : 'none';
+              $(this).css('display', display);
+          });
+      }
+  </script>
+
+  <div id="record" class="game_record data_rows" style="display: block;">
+    <div><span class="item item-battle">通算</span>
+      0勝1敗 (.000)
+    </div>
+    <div><span class="item item-battle">先手</span>
+      0勝1敗 (.000)
+    </div>
+    <div><span class="item item-battle">後手</span>
+      0勝0敗 (.000)
+    </div>
+    <div><span class="item item-flag">連勝</span>
+      1連敗中
+      (最高: 0連勝)
+    </div>
+    <div style="margin-top:10px;margin-bottom:6px;text-align:right;">
+      <a class="common_button" href="/users/phistory/splash111?gtype=&amp;locale=ja&amp;version=webapp_7.1.0_standard">月別段級位履歴</a>
+          <a class="common_button" href="/games/history?locale=ja&amp;user_id=splash111&amp;version=webapp_7.1.0_standard">対局結果・棋譜一覧</a>
+    </div>
+  </div>
+
+  <div id="recordsb" class="game_record data_rows" style="display: none;">
+    <div><span class="item item-battle">通算</span>
+      0勝0敗 (.000)
+    </div>
+    <div><span class="item item-battle">先手</span>
+      0勝0敗 (.000)
+    </div>
+    <div><span class="item item-battle">後手</span>
+      0勝0敗 (.000)
+    </div>
+    <div><span class="item item-flag">連勝</span>
+      0連勝中
+      (最高: 0連勝)
+    </div>
+    <div style="margin-top:10px;margin-bottom:6px;text-align:right;">
+      <a class="common_button" href="/users/phistory/splash111?gtype=sb&amp;locale=ja&amp;version=webapp_7.1.0_standard">月別段級位履歴</a>
+      <a class="common_button" href="/games/history?gtype=sb&amp;locale=ja&amp;user_id=splash111&amp;version=webapp_7.1.0_standard">対局結果・棋譜一覧</a>
+    </div>
+  </div>
+
+  <div id="records1" class="game_record data_rows" style="display: none;">
+    <div><span class="item item-battle">通算</span>
+      0勝0敗 (.000)
+    </div>
+    <div><span class="item item-battle">先手</span>
+      0勝0敗 (.000)
+    </div>
+    <div><span class="item item-battle">後手</span>
+      0勝0敗 (.000)
+    </div>
+    <div><span class="item item-flag">連勝</span>
+      0連勝中
+      (最高: 0連勝)
+    </div>
+    <div style="margin-top:10px;margin-bottom:6px;text-align:right;">
+      <a class="common_button" href="/users/phistory/splash111?gtype=s1&amp;locale=ja&amp;version=webapp_7.1.0_standard">月別段級位履歴</a>
+      <a class="common_button" href="/games/history?gtype=s1&amp;locale=ja&amp;user_id=splash111&amp;version=webapp_7.1.0_standard">対局結果・棋譜一覧</a>
+    </div>
+  </div>
+
+</div>
+
+<div class="data_rows">
+
+</div>
+
+        <div class="data_rows">
+                    <div>
+            <span class="item item-ranking">過去大会</span>
+            <a class="common_button" href="/users/ehistory/splash111?locale=ja&amp;version=webapp_7.1.0_standard">成績一覧</a>
+          </div>
+        </div>
+
+        <div class="data_rows">
+  <div class="status_title">
+    <span class="item item-personal">棋神解析</span>
+    <a class="common_button" href="/games/analysis_history?locale=ja&amp;version=webapp_7.1.0_standard">棋譜一覧</a>
+  </div>
+  <br clear="all">
+</div>
+<div class="data_rows">
+  <div class="status_title">
+    <span class="item item-personal">指導対局</span>
+    <a class="common_button" href="/games/coach_history?locale=ja&amp;version=webapp_7.1.0_standard">棋譜一覧</a>
+  </div>
+  <br clear="all">
+</div>
+<div class="data_rows">
+  <div class="status_title">
+    <span class="item item-personal">棋神解析券</span>
+    <span class="emph1" id="useranalysis">2枚</span>
+    <a class="common_button" href="/help/analysis_1">使い方はこちら</a>
+  </div>
+  <br clear="all">
+</div>
+<div class="data_rows">
+  <div class="status_title">
+    <span class="item item-personal">棋神降臨</span>
+    <span class="emph1" id="usergod">1回</span>
+    召喚可能
+  </div>
+  <br clear="all">
+</div>
+
+<div class="data_rows">
+  <div class="status_title">
+    <span class="item item-personal">指導対局券</span>
+    <span class="emph1" id="usercoach_ticket">
+      0枚
+      <a class="common_button" href="/help/coach_1">詳細</a>
+          <a class="common_button" href="/lotteries/62bb173873bd756557d7b151?locale=ja&amp;version=webapp_7.1.0_standard">プレゼント</a>
+    </span>
+  </div>
+  <br clear="all">
+</div>
+
+<div class="data_rows">
+  <div class="status_title">
+    <span class="item item-personal">GCポイント</span>
+    <span class="emph1" id="userpoins">
+          0 pt
+        </span>
+    <a class="common_button" href="/events/point2022?locale=ja&amp;user=splash111&amp;version=webapp_7.1.0_standard">イベントページはこちら</a>
+  </div>
+  <br clear="all">
+    <div class="status_title">
+    <span class="item item-personal">可能対局数</span>
+    <span id="remdays">
+      本日残り<span class="emph1" id="userlimit">3.0</span>局
+          </span>
+  </div>
+
+  <br clear="all">
+</div>
+
+<div id="store_button">
+  <div>
+    <a class="store_button" href="/stores/web?locale=ja&amp;version=webapp_7.1.0_standard">ウォーズストア</a>
+  </div>
+</div>
+
+
+<div class="status_title">
+  <span class="item item-personal">クイズ</span>
+  <a class="common_button" href="/quizzes/quizzes?locale=ja&amp;version=webapp_7.1.0_standard">クイズ一覧</a>
+</div>
+<br clear="all">
+
+
+
+
+  </div>
+</div>
+
+
+
+
+
+
+
+
+      <!--第一期棋神戦放映-->
+
+        <div class="title">
+    段位認定(免状発行)
+  </div>
+  <div class="contents">
+    <div style="text-align:center;">
+                                <div style="margin-bottom: 7px;">
+                                        <span style="font-size:14px; font-weight:bold">申請可能な段位に達していない為、現在の段位では免状・認定状の申請はできません。</span>
+                                </div>
+                                <img src="//image-pona.heroz.jp/banner/menjo_548.jpg" width="274" alt="日本将棋連盟 段位認定ページヘ">
+    </div>
+    <div class="note" style="font-size:12px">
+      日本将棋連盟公認の下、免状・認定状の申請ができます。(5級から六段)<br>
+      申請可能な免状の段位は、10分/弾丸/10秒の最高段位までになります。<br>
+    </div>
+  </div>
+
+      <style type="text/css">
+#shogi_radar_chart{
+
+}
+#shogi_radar_chart div{
+        float:left;
+        width:calc(50% - 12px);
+        padding:4px 6px;
+        text-align:right;
+}
+#shogi_radar_chart div:nth-child(2n){
+        text-align:left;
+}
+.chart_name{
+        color:#FFFFFF;
+        font-weight:bold;
+        text-shadow: 1px 1px 1px #BDBDBD;
+        -moz-text-shadow: 1px 1px 1px #BDBDBD;
+        -webkit-text-shadow: 1px 1px 1px #BDBDBD;
+}
+.low_point{
+        color:#FFD54F;
+        text-shadow: 1px 1px 1px #FF8F00;
+        -moz-text-shadow: 1px 1px 1px #FF8F00;
+        -webkit-text-shadow: 1px 1px 1px #FF8F00;
+}
+.middle_point{
+        color:#FFFFFF;
+        text-shadow: 1px 1px 1px #BDBDBD;
+        -moz-text-shadow: 1px 1px 1px #BDBDBD;
+        -webkit-text-shadow: 1px 1px 1px #BDBDBD;
+}
+.high_point{
+        color:#9CCC65;
+        text-shadow: 1px 1px 1px #33691E;
+        -moz-text-shadow: 1px 1px 1px #33691E;
+        -webkit-text-shadow: 1px 1px 1px #33691E;
+}
+</style>
+<div class="title">棋力レーダーチャート(14.5)</div>
+<div class="contents">
+  <div class="rank_space"><canvas id="radar" width="200" height="200" style="background: url(&quot;//shogiwars-cdn.heroz.jp/images/para4@2x.png&quot;) 0% 0% / 200px 200px no-repeat;"></canvas></div>
+        <div id="shogi_radar_chart">
+                <div>
+                        <span class="chart_name">攻撃力 : </span>
+                        <span class="middle_point">1.7</span>
+                </div>
+                <div>
+                        <span class="chart_name">守備力 : </span>
+                        <span class="middle_point">2.6</span>
+                </div>
+                <div>
+                        <span class="chart_name">芸術力 : </span>
+                        <span class="low_point">0.8</span>
+                </div>
+                <div>
+                        <span class="chart_name">早指力 : </span>
+                        <span class="high_point">4.0</span>
+                </div>
+                <div>
+                        <span class="chart_name">戦術力 : </span>
+                        <span class="high_point">4.0</span>
+                </div>
+                <div>
+                        <span class="chart_name">終盤力 : </span>
+                        <span class="low_point">1.4</span>
+                </div>
+                <br clear="all">
+        </div>
+</div>
+<script type="text/javascript">
+$("#radar").css({
+        "background": "url(//shogiwars-cdn.heroz.jp/images/para4@2x.png)",
+        "background-repeat": "no-repeat",
+        "background-size": "200px 200px"
+});
+</script>
+
+      <div id="collection_wrapper">
+        <div class="title">コレクション(0/43)</div>
+<div class="contents" id="collection">
+
+  <ul class="collection_tab">
+      <li class="selected">
+        <a data-remote="true" href="/users/trophies/splash111/kakoi/0?locale=ja&amp;version=webapp_7.1.0_standard">囲い</a></li>
+      <li class="">
+        <a data-remote="true" href="/users/trophies/splash111/senpou/0?locale=ja&amp;version=webapp_7.1.0_standard">戦法</a></li>
+      <li class="">
+        <a data-remote="true" href="/users/trophies/splash111/tesuji/0?locale=ja&amp;version=webapp_7.1.0_standard">手筋</a></li>
+      <li class="">
+        <a data-remote="true" href="/users/trophies/splash111/special/0?locale=ja&amp;version=webapp_7.1.0_standard">特殊</a></li>
+  </ul>
+
+  <table id="badges" style="margin:0px auto;">
+        <tbody><tr>
+      <td>
+          0
+      </td>
+            <td>
+          1
+      </td>
+            <td>
+          2
+      </td>
+      </tr>
+        <tr>
+      <td>
+          3
+      </td>
+            <td>
+          4
+      </td>
+            <td>
+          5
+      </td>
+      </tr>
+        <tr>
+      <td>
+          6
+      </td>
+            <td>
+          7
+      </td>
+            <td>
+          8
+      </td>
+      </tr>
+  </tbody></table>
+
+  <ul class="collection_paging">
+        <li class="page selected">1</li>
+        <li class="page">
+          <a data-remote="true" href="/users/trophies/splash111/kakoi/1?got=0&amp;locale=ja&amp;version=webapp_7.1.0_standard">2</a></li>
+        <li class="page">
+          <a data-remote="true" href="/users/trophies/splash111/kakoi/2?got=0&amp;locale=ja&amp;version=webapp_7.1.0_standard">3</a></li>
+        <li class="page">
+          <a data-remote="true" href="/users/trophies/splash111/kakoi/3?got=0&amp;locale=ja&amp;version=webapp_7.1.0_standard">4</a></li>
+        <li class="page">
+          <a data-remote="true" href="/users/trophies/splash111/kakoi/4?got=0&amp;locale=ja&amp;version=webapp_7.1.0_standard">5</a></li>
+  </ul>
+
+</div>
+      </div>
+
+
+      <div class="title">
+        その他
+      </div>
+      <div class="contents">
+        <ul class="list_link">
+            <li><a href="/avatars/user_index?id=splash111&amp;locale=ja&amp;version=webapp_7.1.0_standard">アバター</a></li>
+            <li><a href="/greetings/user_index?locale=ja&amp;version=webapp_7.1.0_standard">挨拶・称号一覧</a></li>
+            <li><a href="/settings/user_index?locale=ja&amp;version=webapp_7.1.0_standard">アプリ設定</a></li>
+          <li><a href="/friends?locale=ja&amp;user_id=splash111&amp;version=webapp_7.1.0_standard">友達一覧</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <script>
+      $(function () {
+          draw(document.getElementById("radar"), 99, 101, 79.0, 5, 2.111656500112765,3.2068945953508603,1,5.0,5,1.7724102716315484, 'rgba(255, 210, 0, 0.5)');
+          SessionStorageUtil.restoreHtml("lastTrophy", "#collection_wrapper");
+      });
+      $(function () {
+          $("#avatar_list").dialog({autoOpen: false, title: 'アバター設定'});
+          $("#wars_points").dialog({
+              autoOpen: false,
+              resizable: false,
+              dialogClass: 'wars_points_dialog',
+              title: 'ｳｫｰｽﾞﾎﾟｲﾝﾄ'
+          });
+          $("#friend_search").dialog({
+              autoOpen: false,
+              title: '友達検索',
+              position: 'center'
+          });
+      });
+
+  </script>
+
+    <div id="copyright">©HEROZ, Inc. All Rights Reserved.</div>
+  </div>
+  <div id="topNavigation">
+    <div><a href="javascript:void(0)" onclick="goTop()">▲TOP</a></div>
+</div>
+
+  <div id="web_base_url" data-web-base-url="//shogiwars-cdn.heroz.jp"></div>
+
+
+<div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable ui-resizable" aria-describedby="avatar_list" aria-labelledby="ui-id-1" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-1" class="ui-dialog-title">アバター設定</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="avatar_list" class="ui-dialog-content ui-widget-content"></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front wars_points_dialog ui-draggable" aria-describedby="wars_points" aria-labelledby="ui-id-2" style="display: none;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-2" class="ui-dialog-title">ｳｫｰｽﾞﾎﾟｲﾝﾄ</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="wars_points" class="ui-dialog-content ui-widget-content"></div></div><div tabindex="-1" role="dialog" class="ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-draggable ui-resizable" aria-describedby="friend_search" aria-labelledby="ui-id-3" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle"><span id="ui-id-3" class="ui-dialog-title">友達検索</span><button type="button" class="ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close" title="Close"><span class="ui-button-icon ui-icon ui-icon-closethick"></span><span class="ui-button-icon-space"> </span>Close</button></div><div id="friend_search" style="font-size:80%;" class="ui-dialog-content ui-widget-content"></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div></body></html>
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://localhost:56444/session/aa06fe685136d188d14b51b152713dc4/elements {"using": "css selector", "value": ".common_button"}
+2022-07-14 17:32:39 [urllib3.connectionpool] DEBUG: http://localhost:56444 "POST /session/aa06fe685136d188d14b51b152713dc4/elements HTTP/1.1" 200 1275
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Remote response: status=200 | data={"value":[{"element-6066-11e4-a52e-4f735466cecf":"a3e73c9b-7f99-41ed-bbbe-ea5decc3bafd"},{"element-6066-11e4-a52e-4f735466cecf":"ad705712-6a4e-421e-926c-fb8f92236599"},{"element-6066-11e4-a52e-4f735466cecf":"cba5d54e-9947-4100-9533-72cd415087dc"},{"element-6066-11e4-a52e-4f735466cecf":"178766e0-a820-41ab-8407-db6700d8aee6"},{"element-6066-11e4-a52e-4f735466cecf":"97bd96b7-8e55-46aa-8df5-b5fc8a310fdf"},{"element-6066-11e4-a52e-4f735466cecf":"cd9f1e24-14c3-40b8-b3da-1a3f02c5bbba"},{"element-6066-11e4-a52e-4f735466cecf":"58afe513-f3ed-485a-b778-36ff0e1d8875"},{"element-6066-11e4-a52e-4f735466cecf":"48e3d94a-174d-4e4c-9ae2-6f2337875cda"},{"element-6066-11e4-a52e-4f735466cecf":"684bf07b-3379-4396-9e4d-391133ebb21c"},{"element-6066-11e4-a52e-4f735466cecf":"a77908ff-3d4c-48b1-b1cb-ac8c4dc65360"},{"element-6066-11e4-a52e-4f735466cecf":"4251a5e0-4b33-4ddf-8c1c-547bf922aa3c"},{"element-6066-11e4-a52e-4f735466cecf":"59fcc6f7-21cd-4edd-ac29-21970b241fc0"},{"element-6066-11e4-a52e-4f735466cecf":"c7c073e5-05fe-4f62-b9c6-06e06e2e288e"},{"element-6066-11e4-a52e-4f735466cecf":"f771fe29-75a8-4bc8-9b5b-d6f35cdc1c08"},{"element-6066-11e4-a52e-4f735466cecf":"73a70012-8a16-410e-8621-4ebea2f7594d"},{"element-6066-11e4-a52e-4f735466cecf":"182e6d1a-d4d2-42af-aff2-5b15c49734cd"}]} | headers=HTTPHeaderDict({'Content-Length': '1275', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})     
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: GET http://localhost:56444/session/aa06fe685136d188d14b51b152713dc4/element/a3e73c9b-7f99-41ed-bbbe-ea5decc3bafd/text {"id": "a3e73c9b-7f99-41ed-bbbe-ea5decc3bafd"}
+2022-07-14 17:32:39 [urllib3.connectionpool] DEBUG: http://localhost:56444 "GET /session/aa06fe685136d188d14b51b152713dc4/element/a3e73c9b-7f99-41ed-bbbe-ea5decc3bafd/text HTTP/1.1" 200 30
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Remote response: status=200 | data={"value":"棋士団を探す"} | headers=HTTPHeaderDict({'Content-Length': '30', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: GET http://localhost:56444/session/aa06fe685136d188d14b51b152713dc4/element/ad705712-6a4e-421e-926c-fb8f92236599/text {"id": "ad705712-6a4e-421e-926c-fb8f92236599"}
+2022-07-14 17:32:39 [urllib3.connectionpool] DEBUG: http://localhost:56444 "GET /session/aa06fe685136d188d14b51b152713dc4/element/ad705712-6a4e-421e-926c-fb8f92236599/text HTTP/1.1" 200 24
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Remote response: status=200 | data={"value":"棋譜一覧"} | headers=HTTPHeaderDict({'Content-Length': '24', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: GET http://localhost:56444/session/aa06fe685136d188d14b51b152713dc4/element/cba5d54e-9947-4100-9533-72cd415087dc/text {"id": "cba5d54e-9947-4100-9533-72cd415087dc"}
+2022-07-14 17:32:39 [urllib3.connectionpool] DEBUG: http://localhost:56444 "GET /session/aa06fe685136d188d14b51b152713dc4/element/cba5d54e-9947-4100-9533-72cd415087dc/text HTTP/1.1" 200 33
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Remote response: status=200 | data={"value":"月別段級位履歴"} | headers=HTTPHeaderDict({'Content-Length': '33', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: GET http://localhost:56444/session/aa06fe685136d188d14b51b152713dc4/element/178766e0-a820-41ab-8407-db6700d8aee6/text {"id": "178766e0-a820-41ab-8407-db6700d8aee6"}
+2022-07-14 17:32:39 [urllib3.connectionpool] DEBUG: http://localhost:56444 "GET /session/aa06fe685136d188d14b51b152713dc4/element/178766e0-a820-41ab-8407-db6700d8aee6/text HTTP/1.1" 200 39
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Remote response: status=200 | data={"value":"対局結果・棋譜一覧"} | headers=HTTPHeaderDict({'Content-Length': '39', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: POST http://localhost:56444/session/aa06fe685136d188d14b51b152713dc4/element/178766e0-a820-41ab-8407-db6700d8aee6/click {"id": "178766e0-a820-41ab-8407-db6700d8aee6"}
+2022-07-14 17:32:39 [urllib3.connectionpool] DEBUG: http://localhost:56444 "POST /session/aa06fe685136d188d14b51b152713dc4/element/178766e0-a820-41ab-8407-db6700d8aee6/click HTTP/1.1" 200 14
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2022-07-14 17:32:39 [selenium.webdriver.remote.remote_connection] DEBUG: Finished Request
+lets go to history page
+2022-07-14 17:32:39 [scrapy.core.engine] INFO: Closing spider (finished)
+2022-07-14 17:32:39 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 577,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 6609,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 2,
+ 'elapsed_time_seconds': 7.60087,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 7, 14, 8, 32, 39, 878588),
+ 'httpcache/firsthand': 1,
+ 'httpcache/hit': 1,
+ 'httpcache/miss': 1,
+ 'httpcache/store': 1,
+ 'httpcompression/response_bytes': 15459,
+ 'httpcompression/response_count': 1,
+ 'log_count/DEBUG': 96,
+ 'log_count/INFO': 10,
+ 'response_received_count': 2,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,

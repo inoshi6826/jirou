@@ -1,0 +1,16 @@
+Server: nginx/1.10.2
+Date: Tue, 12 Jul 2022 15:51:01 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Origin
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: FwEfw1RXL1UXvhAAN9vh
+Access-Control-Allow-Origin: null
+Access-Control-Expose-Headers: 
+Access-Control-Allow-Credentials: true
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Content-Encoding: gzip

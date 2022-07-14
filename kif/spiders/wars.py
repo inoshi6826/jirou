@@ -13,7 +13,7 @@ class WarsSpider(scrapy.Spider):
     name = "wars"
     allowed_domains = ["shogiwars.heroz.jp"]
     start_urls = [
-        "https://shogiwars.heroz.jp/loginm/WEBAPP_24ea8c24-53df-4987-baeb-baddc4663cad/ed53ccbec94dfd40159726ea9b36ca53220b0c8e?version=webapp_7.1.0_standard&locale=ja"
+        "https://shogiwars.heroz.jp/loginm/WEBAPP_bafa12e7-5556-4f5f-9cef-2219a05e0347/93a4afbc8ab22f9206303431c40fe94bced77881?version=webapp_7.1.0_standard&locale=ja"
     ]
     game_header = "https://shogiwars.heroz.jp/games/"
     account = "splash111"
@@ -132,4 +132,5 @@ class WarsSpider(scrapy.Spider):
                 if btn.text == "対局結果・棋譜一覧":
                     btn.click()
                     break
+            print("lets go to history page")
             self.parse_history(response)

@@ -11,7 +11,6 @@ class WarsItem(scrapy.Item):
     url = scrapy.Field()
     type = scrapy.Field()
 
-
 class ProKifItem(scrapy.Item):
     data = scrapy.Field()
     url = scrapy.Field()
