@@ -53,10 +53,11 @@ class WarsSpider(scrapy.Spider):
 
     def parse_history(self, response):
         # * 履歴ページの処理
+        print("iyo man")
         driver = self.driver
         # game_typeはten_min, three_min, ten_secから選択。それ以外の場合10分。
         game_type = "three_min"
-        current_game_type = self.select_game_type(game_type)
+        self.select_game_type(game_type)
         soup = BeautifulSoup(driver.page_source, "html.parser")
         list = soup.find("div", attrs={"id": "list"})
         for item in list:
